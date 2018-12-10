@@ -53,6 +53,14 @@ Instale os módulos/dependências necessárias, abra o prompt **dentro da pasta 
 npm install
 ```
 
+Em seguida, no mesmo prompt, digite:
+
+```
+npm install -g gulp gulp-cli
+```
+
+Para finalizar esse passo, delete o arquivo package-lock.json que está na pasta raiz do projeto.
+
 ## Passo 7: Rodar o gulp
 
 Abra o prompt **dentro da pasta raiz do projeto** (ou simplesmente aproveite o mesmo prompt já aberto no passo anterior), e digite:
