@@ -1,5 +1,5 @@
 {
-	"name": "reference-bootstrap",
+	"name": "gulp-sass-boilerplate",
 	"private": true,
 	"description": "Usado para rotinas do gulp",
 	"version": "0.0.1",
@@ -18,12 +18,12 @@
 		"gulp-live-server": "0.0.31",
 		"gulp-notify": "^2.2.0",
 		"gulp-rename": "^1.2.0",
-		"gulp-sass": "^3.1.0",
+		"gulp-sass": "^3.2.1",
 		"gulp-uglifycss": "^1.0.8",
 		"gulp-util": "^3.0.6",
 		"gulp-watch": "^4.1.0",
 		"http": "0.0.0",
-		"node-sass": "^4.7.2",
+		"node-sass": "^4.9.3",
 		"serve-static": "^1.13.1"
 	}
 }
