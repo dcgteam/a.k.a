@@ -59,8 +59,6 @@ Em seguida, no mesmo prompt, digite:
 npm install -g gulp gulp-cli
 ```
 
-Para finalizar esse passo, delete o arquivo package-lock.json que está na pasta raiz do projeto.
-
 ## Passo 7: Rodar o gulp
 
 Abra o prompt **dentro da pasta raiz do projeto** (ou simplesmente aproveite o mesmo prompt já aberto no passo anterior), e digite:
@@ -70,3 +68,7 @@ gulp
 ```
 
 Caso não apareça nenhum erro, divirta-se! Deixe essa janela sempre aberta enquanto estiver trabalhando no projeto.
+
+# Troubleshooting
+
+* Caso você tenha feito todos os passos, mas na hora de rodar o gulp uma mensagem de erro é apresentada no pormpt, **delete o arquivo package-lock.json** que está na pasta raiz do projeto.
