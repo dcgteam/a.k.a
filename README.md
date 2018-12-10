@@ -71,4 +71,4 @@ Caso não apareça nenhum erro, divirta-se! Deixe essa janela sempre aberta enqu
 
 # Troubleshooting
 
-* Caso você tenha feito todos os passos, mas na hora de rodar o gulp uma mensagem de erro é apresentada no pormpt, **delete o arquivo package-lock.json** que está na pasta raiz do projeto.
+* Caso você tenha feito todos os passos, mas na hora de rodar o gulp uma mensagem de erro é apresentada no prompt, **delete o arquivo package-lock.json** que está na pasta raiz do projeto.
